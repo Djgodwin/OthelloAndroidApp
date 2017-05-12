@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="description1">Othello(or Reversi) is a strategy board game for two players, typically played on an 8×8 uncheckered board. In this version, however, the game is played on a 6x6 board.
+    </string>
+    <string name="description2">There are game pieces called disks, which are light on one side and dark on the other. Players take turns placing disks on the board with their assigned color facing up.</string>
+    <string name="description3">During a play, any disks of the opponent\'s color that are in a straight line and bounded by the disk just placed and another disk of the current player\'s color are turned over to the current player\'s color. </string>
+    <string name="description4">The object of the game is to have the majority of disks turned to display your color when the last playable empty square is filled.</string>
+    <string name="description5">The game begins with four disks placed in a square in the middle of the grid, two facing white side up, two pieces with the dark side up, with same-colored disks on a diagonal with each other.
+    </string>
+</resources>
